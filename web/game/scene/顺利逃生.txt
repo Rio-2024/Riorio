@@ -1,0 +1,4 @@
+changeFigure:警察.png;
+:警察送你回家，并持续跟进调查跟踪狂…… -fontSize=default;
+changeFigure:none;
+end;

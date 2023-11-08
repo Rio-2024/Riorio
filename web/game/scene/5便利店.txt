@@ -1,0 +1,12 @@
+changeBg:便利店.png -next;
+:你气喘吁吁地跑到店员面前，脸色苍白，眼中满是恐惧。 -fontSize=default;
+changeFigure:便利店员.png -right;
+便利店员:您好，请问需要帮助吗？ -fontSize=default -right;
+changeFigure:女主角.png -left;
+你:后边有个人一直在跟踪我！ -fontSize=default -left;
+changeFigure:便利店员.png -right;
+便利店员:不要怕，我帮你报警。 -fontSize=default -right;
+changeFigure: -left;
+changeFigure: -right;
+intro:A minute later…… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeScene:顺利逃生.txt

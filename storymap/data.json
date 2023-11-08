@@ -1,10 +1,10 @@
 {
     "storymap": {
-        "call_to_action": true,
-        "call_to_action_text": "",
-        "map_as_image": false,
-        "map_type": "osm:standard",
-        "slides": [
+         "call_to_action": true,
+         "call_to_action_text": "",
+         "map_as_image": false,
+         "map_type": "stamen:toner-labels",
+         "slides": [
             {
                 "date": "",
                 "location": {
@@ -13,50 +13,105 @@
                 "media": {
                     "caption": "",
                     "credit": "",
-                    "url": "https://p1.ssl.qhmsg.com/t01b407cbeb3c1c98da.jpg"
+                    "url": "https://riorio.oss-ap-southeast-1.aliyuncs.com/181898190_9_20200205033449863.jfif"
                 },
                 "text": {
-                    "headline": "作品封面",
-                    "text": "基于地图的交互叙事作品"
+                    "headline": "舌尖上的诗词：苏轼美食地图",
+                    "text": "宋代大文豪苏轼热爱生活，热爱大自然，尤其热爱美食。他一生到过很多地方，无论是在行旅途中，还是在贬谪之地，他都乐于烹制，乐于品尝当地的美食。"
                 },
                 "type": "overview"
             },
             {
                 "date": "",
                 "location": {
-                    "lat": 39.98054016455432,
+                    "lat": 30.458531,
                     "line": true,
-                    "lon": 116.29165649414062,
+                    "lon": 114.904024,
                     "zoom": 12
                 },
                 "media": {
-                    "caption": "",
+                    "caption": "东坡肉",
                     "credit": "",
-                    "url": "https://oss-yangjh.oss-cn-chengdu.aliyuncs.com/video/beach.mp4"
+                    "url": "https://riorio.oss-ap-southeast-1.aliyuncs.com/181898190_5_20200205033448831.jfif"
                 },
                 "text": {
-                    "headline": "事件一",
-                    "text": "说明文字"
+                    "headline": "苏轼足迹之黄州",
+                    "text": "猪肉颂—苏轼 净洗铛，少著水，柴头罨烟焰不起。待他自熟莫催他，火候足时他自美。"
                 }
             },
             {
                 "date": "",
                 "location": {
-                    "lat": 40.01499435375046,
+                    "lat": 33.545282,
                     "line": true,
-                    "lon": 113.2855224609375,
+                    "lon": 117.855653,
                     "zoom": 8
                 },
                 "media": {
-                    "caption": "图片说明",
+                    "caption": "蓼茸蒿笋",
                     "credit": "",
-                    "url": "https://th.bing.com/th/id/OIP.-08hJKSITNSeZHEv7Pc3jQHaEK?pid=ImgDet&rs=1"
+                    "url": "https://riorio.oss-ap-southeast-1.aliyuncs.com/181898190_6_20200205033449175.jfif"
                 },
                 "text": {
-                    "headline": "事件二",
-                    "text": "事件说明"
+                    "headline": "苏轼足迹之泗州",
+                    "text": "浣溪沙·细雨斜风作晓寒-苏轼 细雨斜风作晓寒，淡烟疏柳媚晴滩。入淮清洛渐漫漫。雪沫乳花浮午盏，蓼茸蒿笋试春盘。人间有味是清欢。"
                 }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 31.783244,
+                    "line": true,
+                    "lon": 119.966734,
+                    "zoom": 8
+                },
+                "media": {
+                    "caption": "河豚",
+                    "credit": "",
+                    "url": "https://riorio.oss-ap-southeast-1.aliyuncs.com/181898190_6_20200205033449175.jfif"
+                },
+                "text": {
+                    "headline": "苏轼足迹之常州",
+                    "text": "不仅是江里的鱼，有毒的河豚也逃不了苏轼之口，在苏轼的作品《惠崇春江晚景》中，更是将竹笋、肥鸭、野菜、河豚……融汇于一诗之中，真是一句一美食。竹外桃花三两枝，春江水暖鸭先知。蒌蒿满地芦芽短，正是河豚欲上时。”"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 19.665418,
+                    "line": true,
+                    "lon": 109.182236,
+                    "zoom": 8
+                },
+                "media": {
+                    "caption": "牡蛎",
+                    "credit": "",
+                    "url": "https://riorio.oss-ap-southeast-1.aliyuncs.com/181898190_6_20200205033449175.jfif"
+                },
+                "text": {
+                    "headline": "苏轼足迹之儋州",
+                    "text": "苏轼第三次被贬谪，到了儋州也就是海南，那时候的海南就是蛮荒之地。但是这并没有打倒苏东坡。他在这里又找到了让他人生充满乐趣的美食之一：生蚝。他曾写信给他儿子：“东坡在海南，食蠔而美，贻书叔党曰：无令中朝士大夫知，恐争谋南徙，以分此味。”意思就是：儿子，我在海南发现生蚝好好吃！你千万不要告诉朝廷里那帮人，我怕他们过来跟我抢！"
+                }
+            },
+            {
+                    "date": "",
+                    "location": {
+                        "lat": 33.545282,
+                        "line": true,
+                        "lon": 117.855653,
+                        "zoom": 12
+                    },
+                    "media": {
+                        "caption": "荔枝",
+                        "credit": "",
+                        "url": "https://riorio.oss-ap-southeast-1.aliyuncs.com/181898190_9_20200205033449863.jfif"
+                    },
+                    "text": {
+                        "headline": "苏轼足迹之惠州",
+                        "text": "惠州一绝/食荔枝-苏轼 罗浮山下四时春，卢橘杨梅次第新。日啖荔枝三百颗，不辞长作岭南人。"
+                    }
             }
-        ]
-    }
-}
+            
+                ]
+            }
+        }

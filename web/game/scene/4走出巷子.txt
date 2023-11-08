@@ -1,0 +1,9 @@
+:不算太长的巷子，马上就走到头了。 -fontSize=default;
+:很明显地可以看到，巷子口没有人。 -fontSize=default;
+:这时候后边的脚步声愈加急促起来。 -fontSize=default;
+:你加速跑出巷子，来到马路上。 -fontSize=default;
+changeFigure:none;
+changeBg:马路.png;
+:右边有几个行人正在走来，左边有一家24小时便利店。 -fontSize=default;
+:你选择： -fontSize=default;
+choose:向路人求救:5向路人求救.txt|跑去便利店求救:5便利店.txt;

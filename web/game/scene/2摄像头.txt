@@ -1,0 +1,4 @@
+:你发现一个陌生男子正尾随在你身后。 -fontSize=default;
+:那个人身形很高大，巷子里很暗，你看不清他的脸。 -fontSize=default;
+:你会： -fontSize=default;
+choose:感到十分害怕，开始加快脚步，试图甩掉跟踪狂。:嘎了.txt|虽然很害怕，但还是继续向前走着，假装没发现他。:3假装没发现.txt;

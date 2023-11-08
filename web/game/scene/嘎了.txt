@@ -1,0 +1,5 @@
+changeFigure:跟踪狂.png;
+changeFigure:none;
+intro:那个人加速冲上来…… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:Game over！ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

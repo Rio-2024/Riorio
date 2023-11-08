@@ -1,0 +1,8 @@
+intro:这是一个追踪之夜 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:巷子.png;
+changeFigure:女主角.png;
+:你在结束一天的工作后，独自走在回家的路上。 -fontSize=default;
+:时间已经很晚了，街上的行人寥寥无几。 -fontSize=default;
+:当你走到一条僻静的小巷时，突然感觉到好像有人在身后跟踪你。 -fontSize=default;
+:你会： -fontSize=default;
+choose:紧张地回头一看:嘎了.txt|用手机摄像头悄悄观察:2摄像头.txt;

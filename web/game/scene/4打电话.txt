@@ -1,0 +1,3 @@
+:你假装收到家人的信息，语音回复信息 -fontSize=default;
+你:老公，你在路边等我吗？不是跟你说不用来接我了吗 -fontSize=default;
+changeScene:4走出巷子.txt

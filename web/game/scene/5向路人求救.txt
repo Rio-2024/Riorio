@@ -1,0 +1,7 @@
+changeFigure:女主角.png -left;
+你:救命啊，后边有人跟踪我 -fontSize=default -left;
+changeFigure: -left;
+changeFigure:路人.png -right;
+路人:在哪？我们快报警。 -fontSize=default -right;
+changeFigure: -right;
+changeScene:顺利逃生.txt
